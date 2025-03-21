@@ -1,0 +1,35 @@
+  <h1> list-style={
+  	body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+.MENU{
+	list-style: NONE;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+MENU LI A{
+	text-decoration: NONE;
+	color: white;
+	padding: 20px;
+	display: block;
+
+}
+
+.menu li{
+	display: inline-blockl;
+	text-align: center;
+
+}
+
+.menu li a: hover{
+	background: #ef8354;
+	
+}
+  }
